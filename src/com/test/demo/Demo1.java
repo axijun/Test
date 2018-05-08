@@ -9,5 +9,8 @@ public class Demo1 {
 		System.out.println("hello world2");
 	}
 	
+	public void test3() {
+		System.out.println("hello world3");
+	}
 	
 }
